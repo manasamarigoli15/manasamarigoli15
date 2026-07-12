@@ -1,11 +1,11 @@
 # Hi there! I'm Manasa Marigoli 👋
 
-### def career():
+### 
+    def career():
     return (
-        "Software Engineer → AI Engineer → "
-        "Building products people love."
+        "Software Engineer → Automation Engineer → AI Engineer  "
+        "Most AI models end their journey in a notebook. I prefer mine in production."
     )
-
 
 ---
 
