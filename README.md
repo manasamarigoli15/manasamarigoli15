@@ -3,7 +3,7 @@
 ### 
     def career():
         return (
-            "Software Engineer → Automation Engineer → AI Engineer  "
+            "Software Engineer → Automation Engineer → AI Engineer"
             "Most AI models end their journey in a notebook. I prefer mine in production."
         )
 
@@ -24,10 +24,6 @@ interests:
   - Computer Vision
   - Generative AI
   - Full Stack Development
-
-currently_learning:
-  - AI Agents
-  - LangGraph
 ```
 
 ---
