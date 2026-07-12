@@ -153,8 +153,8 @@ images, estimate disease severity, and provide explainable predictions.
 
 <p align="center">
 
-<a href="YOUR_REPO">
-<img src="https://github.com/manasamarigoli15/Skin-Cancer-Detection">
+<a href="https://github.com/manasamarigoli15/Skin-Cancer-Detection">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -189,8 +189,8 @@ responses with <b>Mistral AI</b>, and visualizes relationships using an interact
 
 <p align="center">
 
-<a href="YOUR_REPO">
-<img src="https://github.com/manasamarigoli15/RAG-Approach-on-SPIN">
+<a href="https://github.com/manasamarigoli15/RAG-Approach-on-SPIN">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -220,31 +220,20 @@ responses with <b>Mistral AI</b>, and visualizes relationships using an interact
 
 ---
 
-# 🌱 Currently Exploring
-
-- 🤖 AI Agents
-- 🧠 LangGraph
-- ☁️ Azure AI
-- ⚡ MCP
-- 🏗️ System Design
-- 🚀 Distributed Systems
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://www.linkedin.com/in/manasa-marigoli/"/>
+a href="https://www.linkedin.com/in/manasa-marigoli/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="manasamarigoli15@gmail.com"/>
+<a href="mailto:manasamarigoli15@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">
-<img src="In Progress..."/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 </p>
