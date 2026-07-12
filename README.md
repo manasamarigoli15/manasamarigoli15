@@ -121,33 +121,52 @@ currently_learning:
 
 # 🚀 Featured Projects
 
-### 🏥 AI Medical Report Generator
+<table>
+<tr>
+<td width="50%">
 
-Computer Vision system that generates radiology reports from chest X-ray images using deep learning.
+## 🧬 Skin Cancer Detection using Deep Learning
 
-**Tech:** Python • PyTorch • OpenCV • Transformers
+A deep learning system for automated skin cancer classification using dermoscopic images. The project explores convolutional neural networks to assist in early melanoma detection.
 
----
+### Highlights
+- 🧠 Built with TensorFlow & PyTorch
+- 🔬 Image preprocessing and augmentation
+- 📈 CNN-based classification
+- 📊 Model evaluation and performance analysis
+- 🎯 Focused on improving diagnostic accuracy
 
-### 📚 RAG Knowledge Assistant
+**Tech Stack**
 
-Retrieval-Augmented Generation system built with MongoDB, FAISS, Sentence Transformers and Mistral AI.
+`Python` `TensorFlow` `PyTorch` `OpenCV` `CNN` `NumPy` `Matplotlib`
 
-**Tech:** Python • MongoDB • FAISS • Neo4j
+</td>
 
----
+<td width="50%">
 
-### 🌐 Portfolio Management System
+## 🤖 Biomedical RAG Knowledge Assistant
 
-Enterprise web application built with ASP.NET Core and Angular using Clean Architecture.
+An AI-powered Retrieval-Augmented Generation (RAG) system that retrieves biomedical literature, generates contextual answers, and visualizes relationships using knowledge graphs.
 
-**Tech:** ASP.NET Core • Angular • SQL Server
+### Highlights
 
----
+- 📚 PubMed literature retrieval
+- 🔎 Semantic search with FAISS
+- 🧠 Sentence Transformers embeddings
+- 💬 Response generation using Mistral LLM
+- 🌐 Knowledge graph visualization with Neo4j
 
-### 🤖 SAP Automation
+**Tech Stack**
 
-Automated order processing using OCR, Python and Microsoft Power Platform.
+`Python` `MongoDB` `FAISS` `Neo4j`
+`Sentence Transformers`
+`Mistral AI`
+`RAG`
+`LLMs`
+
+</td>
+</tr>
+</table>
 
 ---
 
