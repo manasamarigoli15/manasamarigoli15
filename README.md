@@ -2,10 +2,10 @@
 
 ### 
     def career():
-    return (
-        "Software Engineer → Automation Engineer → AI Engineer  "
-        "Most AI models end their journey in a notebook. I prefer mine in production."
-    )
+        return (
+            "Software Engineer → Automation Engineer → AI Engineer  "
+            "Most AI models end their journey in a notebook. I prefer mine in production."
+        )
 
 ---
 
