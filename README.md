@@ -34,7 +34,7 @@ currently_learning:
 
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
+### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -44,7 +44,7 @@ currently_learning:
 
 ---
 
-## 🌐 Full Stack Development
+### 🌐 Full Stack Development
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square)
@@ -56,7 +56,7 @@ currently_learning:
 
 ---
 
-## 🤖 Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
@@ -69,7 +69,7 @@ currently_learning:
 
 ---
 
-## 📊 Data Visualization
+### 📊 Data Visualization
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
@@ -79,7 +79,7 @@ currently_learning:
 
 ---
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
@@ -89,7 +89,7 @@ currently_learning:
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
@@ -98,7 +98,7 @@ currently_learning:
 
 ---
 
-## ⚡ Automation
+### ⚡ Automation
 
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square)
@@ -106,7 +106,7 @@ currently_learning:
 
 ---
 
-## 🏢 Enterprise & Business Applications
+### 🏢 Enterprise & Business Applications
 
 ![SAP ECC](https://img.shields.io/badge/SAP_ECC-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
@@ -165,7 +165,7 @@ images, estimate disease severity, and provide explainable predictions.
 
 <h2>🤖 Biomedical RAG Knowledge Assistant</h2>
 
-<h3><i>Retrieval-Augmented Generation for Biomedical Literature</i></h3>
+<h3>RAG for Biomedical Literature</h3>
 
 <p>
 A Retrieval-Augmented Generation (RAG) system that retrieves biomedical literature
@@ -224,7 +224,7 @@ responses with <b>Mistral AI</b>, and visualizes relationships using an interact
 
 <p align="center">
 
-a href="https://www.linkedin.com/in/manasa-marigoli/">
+<a href="https://www.linkedin.com/in/manasa-marigoli/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
