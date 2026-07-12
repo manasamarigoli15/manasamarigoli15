@@ -15,7 +15,7 @@
 name: Manasa Marigoli
 location: Rostock, Germany 🇩🇪
 experience: 3+ Years
-Education: MSc Information Systems @ University of Rostock
+Education: MSc Computer Science @ University of Rostock
 current_role: Working Student @ Nordex
 previous_role: Software Engineer @ Happiest Minds
 
