@@ -6,11 +6,6 @@
         "Building products people love."
     )
 
-🎓 MSc Information Systems | University of Rostock, Germany 🇩🇪
-
-💼 Working Student @ Nordex Group
-
-💙 Passionate about Artificial Intelligence, .NET, Cloud & Automation
 
 ---
 
@@ -20,6 +15,7 @@
 name: Manasa Marigoli
 location: Rostock, Germany 🇩🇪
 experience: 3+ Years
+Education: MSc Information Systems @ University of Rostock
 current_role: Working Student @ Nordex
 previous_role: Software Engineer @ Happiest Minds
 
@@ -27,15 +23,11 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Generative AI
-  - Backend Development
-  - Cloud Computing
-  - Software Architecture
+  - Full Stack Development
 
 currently_learning:
   - AI Agents
   - LangGraph
-  - MCP
-  - System Design
 ```
 
 ---
@@ -57,7 +49,6 @@ currently_learning:
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 ---
 
@@ -78,6 +69,17 @@ currently_learning:
 ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-green?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=for-the-badge)
+
+---
+
+## 📊 Data Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 ---
 
@@ -87,6 +89,7 @@ currently_learning:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops)
 
 ---
 
@@ -105,7 +108,16 @@ currently_learning:
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 
----
+## 🏢 Enterprise & Business Applications
+
+![SAP ECC](https://img.shields.io/badge/SAP_ECC-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-03787C?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
 
 # 🚀 Featured Projects
 
