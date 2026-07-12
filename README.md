@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there! I'm Manasa Marigoli 👋
 
 ### def career():
@@ -13,9 +11,6 @@
 💼 Working Student @ Nordex Group
 
 💙 Passionate about Artificial Intelligence, .NET, Cloud & Automation
-
-</div>
-
 
 ---
 
