@@ -196,6 +196,7 @@ responses with <b>Mistral AI</b>, and visualizes relationships using an interact
 </p>
 
 </td>
+<td width="50%" valign="top" bgcolor="#161B22">
 
 </tr>
 </table>
@@ -205,10 +206,6 @@ responses with <b>Mistral AI</b>, and visualizes relationships using an interact
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manasamarigoli15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasamarigoli15&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -232,7 +229,7 @@ responses with <b>Mistral AI</b>, and visualizes relationships using an interact
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="In progress...">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
 </a>
 
