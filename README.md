@@ -134,22 +134,10 @@ An end-to-end AI-powered skin lesion classification system built using <b>PyTorc
 images, estimate disease severity, and provide explainable predictions.
 </p>
 
-### ✨ Highlights
-
-- 🔬 Skin lesion classification using the **HAM10000** dataset
-- 🧠 EfficientNet & Vision Transformer models
-- 📊 Disease classification + severity estimation
-- 🖼️ Image preprocessing & augmentation
-- 🔥 Explainable AI with Grad-CAM
-- 📈 Accuracy, Precision, Recall, F1, ROC-AUC & Confusion Matrix
-- 🌐 Interactive Streamlit web application
-
 ### 🛠️ Tech Stack
 
 `Python`
 `PyTorch`
-`Torchvision`
-`TIMM`
 `EfficientNet`
 `Vision Transformer`
 `Grad-CAM`
@@ -248,15 +236,15 @@ responses with <b>Mistral AI</b>, and visualizes relationships using an interact
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://www.linkedin.com/in/manasa-marigoli/"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="manasamarigoli15@gmail.com"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
+<img src="In Progress..."/>
 </a>
 
 </p>
