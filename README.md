@@ -36,87 +36,85 @@ currently_learning:
 
 ## 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square)
 
 ---
 
-## ⚙️ Backend
+## 🌐 Full Stack Development
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-
----
-
-## 🌐 Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
 ## 🤖 Artificial Intelligence
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-green?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=flat-square)
+![LLM](https://img.shields.io/badge/LLMs-blue?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-green?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=flat-square)
+![Grad--CAM](https://img.shields.io/badge/Grad--CAM-FF9800?style=flat-square)
 
 ---
 
 ## 📊 Data Visualization
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 
 ---
 
 ## ☁️ Cloud & DevOps
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops)
 
 ---
 
 ## 🗄️ Databases
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j)
 
 ---
 
 ## ⚡ Automation
 
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square)
+
+---
 
 ## 🏢 Enterprise & Business Applications
 
-![SAP ECC](https://img.shields.io/badge/SAP_ECC-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-03787C?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![SAP ECC](https://img.shields.io/badge/SAP_ECC-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-03787C?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
 
 
 # 🚀 Featured Projects
@@ -168,7 +166,7 @@ images, estimate disease severity, and provide explainable predictions.
 <p align="center">
 
 <a href="YOUR_REPO">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+<img src="https://github.com/manasamarigoli15/Skin-Cancer-Detection">
 </a>
 
 </p>
@@ -182,20 +180,11 @@ images, estimate disease severity, and provide explainable predictions.
 <h3><i>Retrieval-Augmented Generation for Biomedical Literature</i></h3>
 
 <p>
-An AI-powered Retrieval-Augmented Generation (RAG) system that retrieves biomedical literature
+A Retrieval-Augmented Generation (RAG) system that retrieves biomedical literature
 from <b>PubMed</b>, performs semantic search using vector embeddings, generates context-aware
 responses with <b>Mistral AI</b>, and visualizes relationships using an interactive
 <b>Neo4j Knowledge Graph</b>.
 </p>
-
-### ✨ Highlights
-
-- 📚 Automated PubMed literature retrieval
-- 🔍 Semantic search using Sentence Transformers & FAISS
-- 🧠 Context-aware answer generation with Mistral AI
-- 🗄️ MongoDB document storage
-- 🌐 Interactive Neo4j knowledge graph
-- ⚡ End-to-end RAG pipeline
 
 ### 🛠️ Tech Stack
 
@@ -213,7 +202,7 @@ responses with <b>Mistral AI</b>, and visualizes relationships using an interact
 <p align="center">
 
 <a href="YOUR_REPO">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+<img src="https://github.com/manasamarigoli15/RAG-Approach-on-SPIN">
 </a>
 
 </p>
