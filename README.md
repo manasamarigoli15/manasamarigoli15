@@ -125,42 +125,47 @@ currently_learning:
 <tr>
 <td width="50%">
 
-## 🧬 Skin Cancer Detection using Deep Learning
+## 🧬 DermaVision AI: Skin Cancer Detection Using Deep Learning & Explainable AI
 
-A deep learning system for automated skin cancer classification using dermoscopic images. The project explores convolutional neural networks to assist in early melanoma detection.
+An end-to-end AI-powered skin lesion classification system built using **PyTorch**, combining Convolutional Neural Networks (CNNs), Vision Transformers (ViTs), and Explainable AI techniques to assist in skin cancer diagnosis. The application classifies dermoscopic images, estimates disease severity and clinical priority, and provides visual explanations using **Grad-CAM** to improve model transparency.
 
-### Highlights
-- 🧠 Built with TensorFlow & PyTorch
-- 🔬 Image preprocessing and augmentation
-- 📈 CNN-based classification
-- 📊 Model evaluation and performance analysis
-- 🎯 Focused on improving diagnostic accuracy
+### ✨ Highlights
 
-**Tech Stack**
+- 🔬 Automated skin lesion classification using the **HAM10000** dermoscopic image dataset
+- 🧠 Developed deep learning models with **EfficientNet** and **Vision Transformers (ViTs)**
+- 📊 Multi-task learning for simultaneous disease classification and severity estimation
+- 🖼️ Image preprocessing with resizing, normalization, and data augmentation
+- 🔥 Integrated **Grad-CAM** to visualize model attention and improve explainability
+- 📈 Comprehensive evaluation using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix
+- 🌐 Built an interactive **Streamlit** web application for image upload, prediction, confidence scoring, severity estimation, and explainable visualizations
 
-`Python` `TensorFlow` `PyTorch` `OpenCV` `CNN` `NumPy` `Matplotlib`
+### 🛠️ Tech Stack
 
-</td>
+`Python` `PyTorch` `Torchvision` `TIMM` `EfficientNet`
+`Vision Transformer (ViT)` `Grad-CAM` `OpenCV`
+`Streamlit` `NumPy` `Pandas`
+`Scikit-learn` `Matplotlib` `Seaborn`
+`HAM10000`
 
-<td width="50%">
+## 🤖 Biomedical Literature RAG Assistant
 
-## 🤖 Biomedical RAG Knowledge Assistant
+An AI-powered Retrieval-Augmented Generation (RAG) system that retrieves biomedical literature from PubMed, performs semantic search using vector embeddings, and generates context-aware responses using Large Language Models. The system also visualizes entity relationships through an interactive knowledge graph.
 
-An AI-powered Retrieval-Augmented Generation (RAG) system that retrieves biomedical literature, generates contextual answers, and visualizes relationships using knowledge graphs.
+### ✨ Highlights
 
-### Highlights
+- 📚 Automated retrieval of biomedical literature from **PubMed**
+- 🔍 Semantic search using **Sentence Transformers** and **FAISS**
+- 🧠 Retrieval-Augmented Generation powered by **Mistral AI**
+- 🗄️ Document storage and indexing with **MongoDB**
+- 🌐 Knowledge graph generation using **Neo4j**
+- ⚡ End-to-end pipeline for document ingestion, embedding, retrieval, and response generation
 
-- 📚 PubMed literature retrieval
-- 🔎 Semantic search with FAISS
-- 🧠 Sentence Transformers embeddings
-- 💬 Response generation using Mistral LLM
-- 🌐 Knowledge graph visualization with Neo4j
+### 🛠️ Tech Stack
 
-**Tech Stack**
-
-`Python` `MongoDB` `FAISS` `Neo4j`
+`Python` `MongoDB` `FAISS`
 `Sentence Transformers`
 `Mistral AI`
+`Neo4j`
 `RAG`
 `LLMs`
 
