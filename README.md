@@ -2,34 +2,20 @@
 
 # Hi there! I'm Manasa Marigoli 👋
 
-```python
-class ManasaMarigoli:
-
-    role = "Software Engineer"
-
-    currently = [
-        "Working Student @ Nordex Group",
-        "MSc Information Systems @ University of Rostock"
-    ]
-
-    building = [
-        "Enterprise Software",
-        "AI Applications",
-        "Backend Systems",
-        "Automation Solutions"
-    ]
-
-    belief = (
-        "I don't build projects to fill a GitHub profile."
-        " I build software that solves real problems."
+### def career():
+    return (
+        "Software Engineer → AI Engineer → "
+        "Building products people love."
     )
-```
 
-### Software Engineer • AI Engineer • Full Stack Developer
+🎓 MSc Information Systems | University of Rostock, Germany 🇩🇪
 
-Building intelligent software with **.NET**, **Python**, **AI**, and **Cloud Technologies**
+💼 Working Student @ Nordex Group
+
+💙 Passionate about Artificial Intelligence, .NET, Cloud & Automation
 
 </div>
+
 
 ---
 
